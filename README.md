@@ -83,9 +83,9 @@ This component should render the text `Home Page` in an `<h1>`.
 This component should render the text `Movies Page` in an `<h1>`, and make a new
 `<div>` for each movie. The `<div>` should contain the movie's title, time and a
 `<ul>` with a list of its genres.
-
+        
 ### `Directors`
-
+:)
 This component should render the text `Directors Page` in an `<h1>`, and make a
 new `<div>` for each director. The `<div>` should contain the director's name
 and a `<ul>` with a list of their movies.
